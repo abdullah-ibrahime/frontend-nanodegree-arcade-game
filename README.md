@@ -1,8 +1,11 @@
 frontend-nanodegree-arcade-game
 ===============================
 ##Installing from Source:
+
 1-Clone the following repo:
+
     -git clone https://github.com/abdullah-ibrahime/frontend-nanodegree-arcade-game
+    
 2-Load index.html in browser.
 
 3-Play the game
